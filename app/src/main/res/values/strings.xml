@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Name of app -->
+    <string name="app_name">Book List</string>
+
+    <!-- Search Hint -->
+    <string name="search_hint">Search your book(s)...</string>
+
+    <!-- Search Button -->
+    <string name="search_button">SEARCH</string>
+
+    <!-- Message when there in no internet connection -->
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <!-- Message to display when no books found -->
+    <string name="no_books_found">No books found</string>
+
+</resources>
